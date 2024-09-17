@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EXE01-FreeRTOs/build/CMakeFiles/bootloader
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EXE01-FreeRTOs/build/CMakeFiles/bootloader.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EXE01-FreeRTOs/build/CMakeFiles/bootloader-complete.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EXE01-FreeRTOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EXE01-FreeRTOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EXE01-FreeRTOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EXE01-FreeRTOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EXE01-FreeRTOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EXE01-FreeRTOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EXE01-FreeRTOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
