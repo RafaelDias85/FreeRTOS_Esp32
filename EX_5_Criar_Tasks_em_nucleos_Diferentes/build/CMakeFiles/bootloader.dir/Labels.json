@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_5_Criar_Tasks_em_nucleos_Diferentes/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_5_Criar_Tasks_em_nucleos_Diferentes/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_5_Criar_Tasks_em_nucleos_Diferentes/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_5_Criar_Tasks_em_nucleos_Diferentes/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_5_Criar_Tasks_em_nucleos_Diferentes/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_5_Criar_Tasks_em_nucleos_Diferentes/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_5_Criar_Tasks_em_nucleos_Diferentes/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_5_Criar_Tasks_em_nucleos_Diferentes/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_5_Criar_Tasks_em_nucleos_Diferentes/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_5_Criar_Tasks_em_nucleos_Diferentes/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
