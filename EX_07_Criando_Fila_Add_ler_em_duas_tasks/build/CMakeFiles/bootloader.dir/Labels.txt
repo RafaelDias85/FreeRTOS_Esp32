@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_07_Criando_Fila_Add_ler_em_duas_tasks/build/CMakeFiles/bootloader
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_07_Criando_Fila_Add_ler_em_duas_tasks/build/CMakeFiles/bootloader.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_07_Criando_Fila_Add_ler_em_duas_tasks/build/CMakeFiles/bootloader-complete.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_07_Criando_Fila_Add_ler_em_duas_tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_07_Criando_Fila_Add_ler_em_duas_tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_07_Criando_Fila_Add_ler_em_duas_tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_07_Criando_Fila_Add_ler_em_duas_tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_07_Criando_Fila_Add_ler_em_duas_tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_07_Criando_Fila_Add_ler_em_duas_tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_07_Criando_Fila_Add_ler_em_duas_tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

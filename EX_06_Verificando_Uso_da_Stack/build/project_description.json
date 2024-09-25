@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "EX_06_Verificando_Uso_da_Stack",
-    "project_version":    "c22f4b7-dirty",
+    "project_version":    "fd4b92a-dirty",
     "project_path":       "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_06_Verificando_Uso_da_Stack",
     "idf_path":           "C:/esp-idf-config/v5.1.4/esp-idf",
     "build_dir":          "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_06_Verificando_Uso_da_Stack/build",
