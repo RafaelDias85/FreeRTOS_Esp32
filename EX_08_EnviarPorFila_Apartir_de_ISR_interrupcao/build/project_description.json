@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "EX_08_EnviarPorFila_Apartir_de_ISR_interrupcao",
-    "project_version":    "fd4b92a-dirty",
+    "project_version":    "f4a4fcb-dirty",
     "project_path":       "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_08_EnviarPorFila_Apartir_de_ISR_interrupcao",
     "idf_path":           "C:/esp-idf-config/v5.1.4/esp-idf",
     "build_dir":          "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_08_EnviarPorFila_Apartir_de_ISR_interrupcao/build",
