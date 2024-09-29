@@ -45,7 +45,7 @@ void vTaskBlink(void *pvParameters)
 
         // Dar semáforo antes de atrasar, para evitar bloqueio
         xSemaphoreGive(xSemaphore);
-        vTaskDelay(pdMS_TO_TICKS(2000)); // Delay de 1 segundo para piscar o LED
+        vTaskDelay(pdMS_TO_TICKS(500)); // Delay de 1 segundo para piscar o LED
     }
 }
 

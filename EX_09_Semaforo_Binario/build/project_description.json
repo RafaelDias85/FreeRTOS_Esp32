@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "EX_09_Semaforo_Binario",
-    "project_version":    "6a107d2",
+    "project_version":    "efd2184-dirty",
     "project_path":       "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_09_Semaforo_Binario",
     "idf_path":           "C:/esp-idf-config/v5.1.4/esp-idf",
     "build_dir":          "C:/RafaelDias/Microcontroladores/Curso_FreeRTOS/Exercicios/EX_09_Semaforo_Binario/build",
